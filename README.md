@@ -1,11 +1,59 @@
-<h1 align="center">Hi 👋, I'm Victor Bertolini</h1>
-<h3 align="center">A passionate for programming challenges and improving my skills</h3>
+<h1 align="center">Olá, eu sou Victor Bertolini</h1>
+<h3 align="center">Um apaixonado por desafios, inteligência artificial e desenvolvimento de software</h3>
 
-- 📫 How to reach me **victor.bertolini@ufu.br**
+* Graduando em Ciência da Computação pela Universidade Federal de Uberlândia
+* Apaixonado por animais, corrida, programação competitiva
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Linguagens de maior domínio:</h3>
+<p align="left"> 
+  <!-- Java -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/> 
+  </a> 
+
+  <!-- Python -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  </a> 
+
+  <!-- C -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50"/> 
+  </a> 
+  
+  <!-- Postgres -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres" width="50" height="50"/> 
+  </a> 
+
+  <!-- R -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" width="50" height="50"/> 
+  </a> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">SO normalmente utilizados:</h3>
+<p align="left"> 
+  <!-- Windows -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="50" height="50"/> 
+  </a> 
+
+  <!-- Debian -->
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="50" height="50"/> 
+  </a> 
+</p>
+
+<hr>
+
+### Como me encontrar:
+- **victorbertolinidesousa@yahoo.com**
+- <img href="https://www.linkedin.com/in/victor-bertolini-de-sousa-6b8630394/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/>
+          
+
+
+
+
+
+
