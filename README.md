@@ -2,7 +2,7 @@
 <h3 align="center">Um apaixonado por desafios, inteligência artificial e desenvolvimento de software</h3>
 
 * Graduando em Ciência da Computação pela Universidade Federal de Uberlândia
-* Apaixonado por animais, corrida, programação competitiva
+* Apaixonado por animais, corrida e programação competitiva
 
 <h3 align="left">Linguagens de maior domínio:</h3>
 <p align="left"> 
