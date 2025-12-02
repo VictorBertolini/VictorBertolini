@@ -24,5 +24,6 @@
 ### Como me encontrar:
 - **victorbertolinidesousa@yahoo.com**
 - <a href="https://www.linkedin.com/in/victor-bertolini-de-sousa-6b8630394/">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="40" height="40"/> 
+  <p>https://www.linkedin.com/in/victor-bertolini-de-sousa-6b8630394/</p>
   </a>
